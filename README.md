@@ -1,9 +1,9 @@
 # Hi, I'm Joanna! 👋
 ### Here are some things about me:
 
-- 🌱 I’m an undergraduate studying Information Systems & Technology @ Bandung Institute of Technology
+- 🌱 I’m an undergraduate studying Information Systems & Technology @ New York University and based at Bandung Institute of Technology
 - 📲 Currently learning about front-end development, product management, & iOS development
-- 📫 joanna.mns@gmail.com & 18220007@std.stei.itb.ac.id
+- 📫 jms10175@nyu.edu & 18220007@std.stei.itb.ac.id
 - 💬 https://www.linkedin.com/in/nauli
 
 ### Tools & Technologies:
